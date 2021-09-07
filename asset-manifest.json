@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crossword-app/static/css/main.713f2d9f.chunk.css",
+    "main.js": "/crossword-app/static/js/main.1e162020.chunk.js",
+    "main.js.map": "/crossword-app/static/js/main.1e162020.chunk.js.map",
+    "runtime-main.js": "/crossword-app/static/js/runtime-main.28669f6c.js",
+    "runtime-main.js.map": "/crossword-app/static/js/runtime-main.28669f6c.js.map",
+    "static/js/2.bd112c99.chunk.js": "/crossword-app/static/js/2.bd112c99.chunk.js",
+    "static/js/2.bd112c99.chunk.js.map": "/crossword-app/static/js/2.bd112c99.chunk.js.map",
+    "index.html": "/crossword-app/index.html",
+    "static/css/main.713f2d9f.chunk.css.map": "/crossword-app/static/css/main.713f2d9f.chunk.css.map",
+    "static/js/2.bd112c99.chunk.js.LICENSE.txt": "/crossword-app/static/js/2.bd112c99.chunk.js.LICENSE.txt",
+    "static/media/back.80f03fd6.png": "/crossword-app/static/media/back.80f03fd6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28669f6c.js",
+    "static/js/2.bd112c99.chunk.js",
+    "static/css/main.713f2d9f.chunk.css",
+    "static/js/main.1e162020.chunk.js"
+  ]
+}
