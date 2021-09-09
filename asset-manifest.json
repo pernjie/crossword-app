@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crossword-app/static/css/main.713f2d9f.chunk.css",
-    "main.js": "/crossword-app/static/js/main.b08038f3.chunk.js",
-    "main.js.map": "/crossword-app/static/js/main.b08038f3.chunk.js.map",
+    "main.js": "/crossword-app/static/js/main.c954679d.chunk.js",
+    "main.js.map": "/crossword-app/static/js/main.c954679d.chunk.js.map",
     "runtime-main.js": "/crossword-app/static/js/runtime-main.28669f6c.js",
     "runtime-main.js.map": "/crossword-app/static/js/runtime-main.28669f6c.js.map",
     "static/js/2.bd112c99.chunk.js": "/crossword-app/static/js/2.bd112c99.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.28669f6c.js",
     "static/js/2.bd112c99.chunk.js",
     "static/css/main.713f2d9f.chunk.css",
-    "static/js/main.b08038f3.chunk.js"
+    "static/js/main.c954679d.chunk.js"
   ]
 }
