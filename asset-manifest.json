@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/crossword-app/static/css/main.c8d6005f.chunk.css",
-    "main.js": "/crossword-app/static/js/main.5b702930.chunk.js",
-    "main.js.map": "/crossword-app/static/js/main.5b702930.chunk.js.map",
+    "main.css": "/crossword-app/static/css/main.2b375459.chunk.css",
+    "main.js": "/crossword-app/static/js/main.35163d7a.chunk.js",
+    "main.js.map": "/crossword-app/static/js/main.35163d7a.chunk.js.map",
     "runtime-main.js": "/crossword-app/static/js/runtime-main.aad2d72e.js",
     "runtime-main.js.map": "/crossword-app/static/js/runtime-main.aad2d72e.js.map",
     "static/css/2.450bcdb5.chunk.css": "/crossword-app/static/css/2.450bcdb5.chunk.css",
-    "static/js/2.6a9905fa.chunk.js": "/crossword-app/static/js/2.6a9905fa.chunk.js",
-    "static/js/2.6a9905fa.chunk.js.map": "/crossword-app/static/js/2.6a9905fa.chunk.js.map",
+    "static/js/2.5b884cc8.chunk.js": "/crossword-app/static/js/2.5b884cc8.chunk.js",
+    "static/js/2.5b884cc8.chunk.js.map": "/crossword-app/static/js/2.5b884cc8.chunk.js.map",
     "index.html": "/crossword-app/index.html",
     "static/css/2.450bcdb5.chunk.css.map": "/crossword-app/static/css/2.450bcdb5.chunk.css.map",
-    "static/css/main.c8d6005f.chunk.css.map": "/crossword-app/static/css/main.c8d6005f.chunk.css.map",
-    "static/js/2.6a9905fa.chunk.js.LICENSE.txt": "/crossword-app/static/js/2.6a9905fa.chunk.js.LICENSE.txt",
+    "static/css/main.2b375459.chunk.css.map": "/crossword-app/static/css/main.2b375459.chunk.css.map",
+    "static/js/2.5b884cc8.chunk.js.LICENSE.txt": "/crossword-app/static/js/2.5b884cc8.chunk.js.LICENSE.txt",
     "static/media/back.80f03fd6.png": "/crossword-app/static/media/back.80f03fd6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aad2d72e.js",
     "static/css/2.450bcdb5.chunk.css",
-    "static/js/2.6a9905fa.chunk.js",
-    "static/css/main.c8d6005f.chunk.css",
-    "static/js/main.5b702930.chunk.js"
+    "static/js/2.5b884cc8.chunk.js",
+    "static/css/main.2b375459.chunk.css",
+    "static/js/main.35163d7a.chunk.js"
   ]
 }
