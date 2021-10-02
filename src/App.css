@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+
+.App-left {
+  text-align: left;
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 60s linear;
+  }
+} */
+
+.App-header {
+  background-color: #282c34;
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  padding: 50px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-content {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #FAD988;
+  text-decoration: none;
+}
+
+.App-dead-link {
+  /* padding: 20px; */
+  text-align: left;
+  color: #000000;
+  text-decoration: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h2{
+  padding: 0px;
+  margin: 0px;
+}
+
+#box { 
+  display: flex;
+  margin: 1%;
+}
+
+#box > * + * {
+  margin-left: 20px;
+}
+
+#scrollbox {
+  overflow-y: scroll;
+  /* width: 600px; */
+  height: 90vh;
+}

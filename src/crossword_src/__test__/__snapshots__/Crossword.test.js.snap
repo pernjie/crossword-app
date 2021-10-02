@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="sc-gtssRu kajSLZ crossword"
+>
+  <div
+    className="sc-dlnjPT KWriD grid"
+  >
+    <div
+      style={
+        Object {
+          "margin": 0,
+          "padding": 0,
+          "position": "relative",
+        }
+      }
+    >
+      <svg
+        viewBox="0 0 100 100"
+      >
+        <rect
+          fill="rgb(0,0,0)"
+          height={100}
+          width={100}
+          x={0}
+          y={0}
+        />
+      </svg>
+      <input
+        aria-label="crossword-input"
+        autoComplete="off"
+        autoCorrect="off"
+        onChange={[Function]}
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        spellCheck="false"
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "border": 0,
+            "caretColor": "transparent",
+            "cursor": "default",
+            "fontSize": "Infinitypx",
+            "height": "calc(Infinity% - 4px)",
+            "left": "calc(NaN% + 2px)",
+            "margin": 0,
+            "padding": 0,
+            "position": "absolute",
+            "textAlign": "center",
+            "textAnchor": "middle",
+            "top": "calc(NaN% + 2px)",
+            "width": "calc(Infinity% - 4px)",
+          }
+        }
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="sc-hKFyIo lllDHv clues"
+  />
+</div>
+`;
